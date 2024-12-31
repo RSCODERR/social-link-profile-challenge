@@ -67,6 +67,12 @@ body {
   background-color: hsl(0, 0%, 20%);
 }
 
+.skills li:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+  cursor: pointer;
+}
+
 footer {
   background-color: #383737;
   padding: 1rem 0;
